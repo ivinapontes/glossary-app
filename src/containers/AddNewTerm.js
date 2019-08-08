@@ -58,7 +58,7 @@ class AddNewTerm extends Component {
   // }
 
   sendFetch(obj) {
-    return fetch("https://cyf-glossary-api.glitch.me/api/addterm", {
+    return fetch("https://cyf-glossary-api.glitch.me/api/addterm/", {
       method: "POST",
       body: JSON.stringify(obj),
       headers: {
