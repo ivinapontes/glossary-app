@@ -71,3 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 - make it responsive
 - make sure the form fields are stable
+- add footer (!!!!!!!!!!!!!!!!!!!!!!!!!)
